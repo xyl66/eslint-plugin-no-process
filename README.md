@@ -10,10 +10,10 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-no-process`:
+Next, install `eslint-plugin-no-process-lint`:
 
 ```sh
-npm install eslint-plugin-vite-lint --save-dev
+npm install eslint-plugin-no-process-lint --save-dev
 ```
 
 ## Usage
