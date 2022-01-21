@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-process-lint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint vite相关校验",
   "keywords": [
     "eslint",
@@ -12,6 +12,8 @@
   "scripts": {
     "test": "mocha tests --recursive"
   },
+  "repository": "git@github.com:xyl66/eslint-plugin-no-process.git",
+  "homepage": "https://github.com/xyl66/eslint-plugin-no-process",
   "dependencies": {
     "requireindex": "~1.1.0"
   },
